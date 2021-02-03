@@ -1,0 +1,76 @@
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.exe.config
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.exe
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.pdb
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.ResolveComReference.cache
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog2.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog3.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmFinalDog.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmPrincipal.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.Properties.Resources.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.exe
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.pdb
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat2.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat3.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmFimCat.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat1.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog1.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.exe.config
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.exe
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.pdb
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\Interop.WMPLib.dll
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csprojAssemblyReference.cache
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\Interop.WMPLib.dll
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.ResolveComReference.cache
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat1.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat2.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat3.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog1.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog2.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog3.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmFimCat.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmFinalDog.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmPrincipal.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.Properties.Resources.resources
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.GenerateResource.cache
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.CoreCompileInputs.cache
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.exe
+C:\Users\leo-c\Desktop\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.pdb
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.exe.config
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.exe
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\ProjetoDesvendandoGramatica.pdb
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csprojAssemblyReference.cache
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.ResolveComReference.cache
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat1.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat2.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCat3.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog1.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog2.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmDog3.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmFimCat.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmFinalDog.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmPrincipal.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.Properties.Resources.resources
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.GenerateResource.cache
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.exe
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.pdb
+C:\Users\Usuário\Downloads\ProjetoDesvendandoGramatica\ProjetoDesvendandoGramatica\obj\Debug\ProjetoDesvendandoGramatica.FrmCreditos.resources

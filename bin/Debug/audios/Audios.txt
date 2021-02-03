@@ -1,0 +1,33 @@
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\Perguntazebra.mp3"
+A)ZEBRA;B)ZANGAO
+R= A
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaAondeEstaLeao.mp3 
+A)LEÃO;B)RAPOSA
+R= A
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaAondeEstaoGato.mp3 
+A)GATO;B)CACHORRO
+R= A
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaCachorro.mp3 
+A)CACHORRO;B)GATO
+R= A
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaGato.mp3 
+A)GATO;B)CACHORRO
+R= A
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaPalavraArara.mp3 
+A)GIRAFA;B)ARARA
+R= B
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaPalavraBrinquedo.mp3 
+A)BOLA;B)BRINQUEDO
+R= B
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaPalavraCavalo.mp3 
+A)PASSARO;B)CAVALO
+R= B
+@"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\PerguntaSaponaoLava.mp3 
+A)PÉ;B)MAO 
+R= A
+Inicial ; @"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\Inicial.mp3"
+Escolha ; @"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\AposEscolha.mp3"
+Proxima ; @"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\ProximaPergunta.mp3"
+Proxima Cresce ; @"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\ProximaBixoCresce.mp3"
+Voce Venceu ; @"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\VoceVenceu.mp3"
+Errou ; @"C:\Users\Usuário\Desktop\B.C.C\4° periodo\Intaface Homem e Computador\audios\Errou.mp3"

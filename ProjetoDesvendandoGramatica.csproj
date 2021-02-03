@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8A1ABE6-E852-453A-9E2A-893CD7435EF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjetoDesvendandoGramatica</RootNamespace>
+    <AssemblyName>ProjetoDesvendandoGramatica</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCat.Designer.cs">
+      <DependentUpon>FrmCat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCat1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCat1.Designer.cs">
+      <DependentUpon>FrmCat1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCat2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCat2.Designer.cs">
+      <DependentUpon>FrmCat2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCat3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCat3.Designer.cs">
+      <DependentUpon>FrmCat3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCreditos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCreditos.Designer.cs">
+      <DependentUpon>FrmCreditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDog.Designer.cs">
+      <DependentUpon>FrmDog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDog1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDog1.Designer.cs">
+      <DependentUpon>FrmDog1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDog2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDog2.Designer.cs">
+      <DependentUpon>FrmDog2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDog3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDog3.Designer.cs">
+      <DependentUpon>FrmDog3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFimCat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFimCat.Designer.cs">
+      <DependentUpon>FrmFimCat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFinalDog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFinalDog.Designer.cs">
+      <DependentUpon>FrmFinalDog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCat.resx">
+      <DependentUpon>FrmCat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCat1.resx">
+      <DependentUpon>FrmCat1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCat2.resx">
+      <DependentUpon>FrmCat2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCat3.resx">
+      <DependentUpon>FrmCat3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCreditos.resx">
+      <DependentUpon>FrmCreditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDog.resx">
+      <DependentUpon>FrmDog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDog1.resx">
+      <DependentUpon>FrmDog1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDog2.resx">
+      <DependentUpon>FrmDog2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDog3.resx">
+      <DependentUpon>FrmDog3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFimCat.resx">
+      <DependentUpon>FrmFimCat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFinalDog.resx">
+      <DependentUpon>FrmFinalDog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inicial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inicial1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ARARA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GIRAFA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BRINQUEDO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOLA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOGUINHO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GATO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZANGAO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZEBRA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CAVALO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PASSARO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RAPOSA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LEAO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\GATO-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\DOGUINHO-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\LEAO-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\RAPOSA-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\ZANGAO-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\BRINQUEDO-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\GIRAFA-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem fundo\ARARA-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Audio_2190991.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acertou.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
